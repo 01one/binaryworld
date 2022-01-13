@@ -7,4 +7,3 @@ for frame in frames:
 	print(''.join(frame))
 	time.sleep(.040)
 	os.system("clear")
-	#os.system("cls") #if you are in windows(command prompt)
